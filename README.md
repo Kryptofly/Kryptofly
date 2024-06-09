@@ -6,6 +6,11 @@ Being stock and forex trader for years, I have many years of experience in devel
 I now have a passion for building high-quality, innovative solutions and I enjoy working on web applications and open-source projects.
 
 ## Skills
+![MQL4](https://img.shields.io/badge/MQL4-00BFFF?style=for-the-badge)
+![MQL5](https://img.shields.io/badge/MQL5-00BFFF?style=for-the-badge)
+![AFL](https://img.shields.io/badge/AFL-008000?style=for-the-badge)
+![Pine Script v4](https://img.shields.io/badge/Pine%20Script%20v4-008080?style=for-the-badge)
+![Pine Script v5](https://img.shields.io/badge/Pine%20Script%20v5-008080?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - **Trading Languages:** MQL4 & MQL5,AFL,Pine Script v4 & v5
