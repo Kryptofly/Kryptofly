@@ -14,7 +14,7 @@ I now have a passion for building high-quality, innovative solutions and I enjoy
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - **Trading Languages:** MQL4 & MQL5,AFL,Pine Script v4 & v5
-- **Languages:** Python, JavaScript, C++
+- **Languages:** Python, JavaScript, Html, css
 - **Frameworks:** React, Node.js, Django
 - **Tools:** Git, Docker, AWS
 
