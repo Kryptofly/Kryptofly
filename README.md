@@ -19,15 +19,16 @@ I now have a passion for building high-quality, innovative solutions and I enjoy
 - **Tools:** Git, Docker, AWS
 
 ## Projects
-### [Project Alpha](https://github.com/Kryptofly/SimpleBlog)
-- **Description:** Aa simple Python-based web application using Flask that allows users to create, read, update, and delete blog posts.
+
+### [Project Alpha](https://github.com/Kryptofly/warpcast-engagement-dashboard)
+- **Description:** A Python-based dashboard that tracks and visualizes user engagement metrics on Warpcast. 
+- **Technologies Used:** Python, Flask
+- **Link:** [Repository Link](https://github.com/Kryptofly/warpcast-engagement-dashboard)
+- 
+### [Project Beta](https://github.com/Kryptofly/SimpleBlog)
+- **Description:** A simple Python-based web application using Flask that allows users to create, read, update, and delete blog posts.
 - **Technologies Used:** Python, Flask
 - **Link:** [Repository Link](https://github.com/Kryptofly/SimpleBlog)
-
-### [Project Beta](https://github.com/Kryptofly/URL-Shortener)
-- **Description:** URLShortener is a simple Python-based web application using Flask that shortens long URLs
-- **Technologies Used:** Python, Flask
-- **Link:** [https://github.com/Kryptofly/URL-Shortener)
 
 ## Contact
 - **Email:** [cryptomyg@gmail.com](mailto:cryptomyg@gmail.com)
